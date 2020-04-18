@@ -1,7 +1,8 @@
 # ZeroSeg-Python3
 A ZeroSeg library, working with python 3 out of box!
 
-#What is it?
+# What is this?
 This repository contains translated zeroseg library, working with python 3
 
-#Instalation
+# Instalation
+# {not written yet}
