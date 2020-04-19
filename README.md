@@ -5,7 +5,7 @@ A ZeroSeg library, working with python 3 out of box!
 This repository contains translated zeroseg library, working with python 3
 
 # License
-This code library is a modified version of Richard Hull's MAX7219 library and Richard Saville's ZeroSeg version of it, therefore the license details, as requested, are being included here:
+This code library is a modified version of Richard Hull's MAX7219 library, therefore the license details, as requested, are being included here:
 
 The MIT License (MIT)
 
